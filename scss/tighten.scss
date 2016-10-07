@@ -1,0 +1,34 @@
+.class {
+    @extend
+   
+    @include
+
+    AProperty: value;
+    ZProperty: value;
+
+    @media query () {
+
+    }
+
+    &--Amodified {
+
+    }
+
+    &--Zmodified {
+
+    }
+
+    &__Achild {
+
+    }
+
+    &__Zchild {
+
+
+    }
+
+    .child {
+
+    }
+}
+
